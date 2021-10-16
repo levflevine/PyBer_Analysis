@@ -106,8 +106,6 @@ The analysis identified the following key metrics for each city type:
 5. **Rural** and some **Suburban** area **fares per trip are high** and may be **hard to afford** by local consumers
 6. There is **underutilization** of **Urban drivers**: 2,405 drivers for 1,625 rides
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
 ## Summary Recommendations ##
 
 Based on the analysis, the following recommendations have been developed to PyBer CEO for addressing any disparities among the city types
