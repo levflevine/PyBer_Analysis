@@ -4,7 +4,7 @@
 
 The data analysis has been developed for PyBer, a ride-sharing app company. Purpose of the engagement: enable PyBer to improve ride-sharing services and determine affordability to underserved neighborhoods. 
 
-### Eploratory Data Analysis (EDA) ###
+### Exploratory Data Analysis (EDA) ###
 
 The scope of the first phase was conducting the exploratory analysis of the data in source CVS files that resulted in creating several types of visualizations showing the relationships between the *city types*, the *number of drivers*, and the *number of riders*, as well as the *percentage of total fares*, *riders*, and *drivers* by *city type*.
 
@@ -111,6 +111,11 @@ There is a description of the differences in ride-sharing data among the differe
 ## Summary Recommendations ##
 
 Based on the analysis, the following recommendations have been developed to PyBer CEO for addressing any disparities among the city types
-**1. Attract more drivers in Rural and Suburban areas by providing better benefits in Rural areas (increase the per mile/per hour compensation as % of the rural fare + bonuses)**
-**2. Reduce fares per ride in Rural and Suburban areas to increase affordability to consumers and increase the customer base**
-**3. Improve the utilization of Urban drivers (encourage Urban drivers to serve Suburban areas, provide better visibility of the Suburban ride requests and potential incremental earnings opportunity for Urban drivers, provide location analytics and ride demand predictions to Urban drivers to optimize their routing and waiting locations in Suburban areas)**
+1. Attract more drivers in Rural and Suburban areas by providing better benefits in Rural areas 
+     - increase the per mile/per hour compensation as % of the Rural fare 
+     - provide Rural drivers with special bonuses
+2. Reduce fares per ride in Rural and Suburban areas to increase affordability to consumers and increase the customer base
+3. Improve the utilization of Urban drivers 
+     - encourage Urban drivers to serve Suburban areas
+     - provide better visibility of the Suburban ride requests and potential incremental earnings opportunity for Urban drivers 
+     - provide location analytics and ride demand predictions to Urban drivers to optimize their routing and waiting locations in Suburban areas
