@@ -33,10 +33,28 @@ The PyBer analysis used the following data sources:
 
 ## Results ##
 
-### Deliverable 1 ###
+### Eploratory Data Analysis (EDA) ###
+
+First, we've created a scatter plot chart that showed the average fare versus the total number of rides with bubble size based on the average number of drivers for each city type: urban, suburban, and rural.
 
 ![Ride-Sharing Data](/analysis/Fig1.png)
+
+Then, we've added a statistical analysis to help demonstrate the relevance of the data, such as the number of rides for each city that is instrumental in making decisions about which types of cities need more driver support.
+
+Ride Fare Statistical Analysis:
+![Ride Fare](/analysis/Ride_Fare_Plot_Box.png)
+
+Ride Count Statistical Analysis:
+![Ride Count](/analysis/Ride_Count_Box_Plot.png)
+
+Driver Count Statistical Analysis:
+![Driver Count](/analysis/Driver_Count_Box_Plot.png)
+
 ![Drivers by City Type](/analysis/Fig7.png)
+
+### Deliverable 1 ###
+
+![Average Fares by Driver and Ride](/analysis/Deliverable1.png)
 
 ### Deliverable 2 ###
 
